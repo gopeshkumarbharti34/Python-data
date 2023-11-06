@@ -1,0 +1,2 @@
+TRAN~Transfiguration~1~2011-2012~Minerva McGonagall
+CHAR~Charms~1~2011-2012~Filius Flitwick
